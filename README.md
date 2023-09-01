@@ -2,7 +2,7 @@
 - 📊 Data Analyst at West Kenya Sugar Company Limited.
 - 🎓 Software Engineering Student.
 - 💼 Passionate about data-driven decision-making and software development.
-- 🌍 Based in [Kisumu, Kenya].
+- 🌍 Based in [Kisumu, Kenya]
 - 📧 Contact: [hillarymarvince@gmail.com]
 
 ## What I'm Working On
